@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Hector\'s Brass Bell</string>
+    <string name="menu_settings">Settings</string>
+    <string name="trigger_string">Set Signal</string>
+    <string name="trigger_help_string">Turn this on to signal a certain event after 15 dings</string>
 </resources>
